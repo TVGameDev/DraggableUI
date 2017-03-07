@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: add907dafba0fc548ae8e83206a94176
+timeCreated: 1487315134
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Code New Roman
+  fontNames:
+  - Code New Roman
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
